@@ -1,0 +1,35 @@
+#EXTM3U
+
+########### 📺 Canales Nacionales (Colombia) ###########
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Caracol_Televisi%C3%B3n_2021.svg/512px-Caracol_Televisi%C3%B3n_2021.svg.png" group-title="Colombia",Caracol TV
+https://linear-10.frequency.stream/347/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCNColombia.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/RCN_Televisión_logo_2021.svg/512px-RCN_Televisión_logo_2021.svg.png" group-title="Colombia",RCN
+https://linear-12.frequency.stream/346/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Canal_Institucional_logo_2019.png" group-title="Colombia",Canal Institucional
+https://canalinstitucional.senatic.gov.co/live/CanalInstitucional/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Se%C3%B1al_Colombia_logo.png" group-title="Colombia",Señal Colombia
+https://rtvc.mediaplay.com.co/stream/senalcolombia.m3u8
+
+########### 🌎 Canales Latinos ###########
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Latinoamérica",Telemundo
+https://live.telemundopr.com/stream.m3u8
+
+#EXTINF:-1 tvg-id="Univision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Univision_logo_2019.svg/512px-Univision_logo_2019.svg.png" group-title="Latinoamérica",Univisión
+https://univision-livestream.com/stream.m3u8
+
+########### 🎬 Películas y Series ###########
+#EXTINF:-1 tvg-id="CineCanal.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Cinecanal_logo_2011.png" group-title="Cine",Cinecanal
+https://iptv-org.github.io/iptv/countries/ar.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TNT_%28TV_channel%29.svg/512px-TNT_%28TV_channel%29.svg.png" group-title="Cine",TNT
+https://iptv-org.github.io/iptv/categories/movies.m3u8
+
+########### ⚽ Deportes ###########
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN
+https://iptv-org.github.io/iptv/categories/sport.m3u8
+
+#EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Win_Sports_logo.png" group-title="Deportes",Win Sports
+https://winsportsonline.com/stream.m3u8
